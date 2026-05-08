@@ -2,7 +2,7 @@ import { getApp, getApps, initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyBUpzo04C1YrPwUSssVYfaguAS_0R4P1Fo',
+  apiKey: 'ENTER API KEY',
   authDomain: 'crowdcontrol-e9f52.firebaseapp.com',
   projectId: 'crowdcontrol-e9f52',
   storageBucket: 'crowdcontrol-e9f52.firebasestorage.app',
